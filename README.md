@@ -1,6 +1,4 @@
 # yueqing.com
 <code>
-x = 5;
-y = 6;
-z = x + y;
+I'm a Ph.D. student at UC Berkeley.
 </code>
